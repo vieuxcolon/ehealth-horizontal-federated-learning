@@ -1,3 +1,5 @@
+# Remark: Although we experimented with these metrics during the labs and projects, we did not follow the rigorous course of analysis as required by the different graphs we should have generated
+
 # Evaluation Metrics in Federated Learning Experiments
 
 This document explains the **evaluation metrics used in this project** and how they relate to **federated learning (FL)**. The metrics measure both:
