@@ -4,7 +4,7 @@
 
 This experiment modifies one of our code base to implement **Vertical (VFL) and Horizontal Federated Learning (HFL) pipelines** with **differential privacy** and **fairness evaluation** on the **UCI Breast Cancer dataset**.
 
-# Remark: We used documents formatted in this Summary style to also serve as learning aid in our FL Programme. 
+# Remark: We used documents formatted in this Summary style to also serve us as learning aid in our FL Programme. 
 ---
 
 ## **Metric Definitions**
