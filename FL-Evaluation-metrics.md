@@ -1,4 +1,4 @@
-# Remark: Although we experimented with these metrics during the labs and projects, we did not follow the rigorous course of analysis as required by the different graphs we should have generated
+# Remark: Although we experimented with these metrics during the labs and projects, we did not follow the rigorous course of analysis as required by the different graphs we should have generated.
 
 # Evaluation Metrics in Federated Learning Experiments
 
