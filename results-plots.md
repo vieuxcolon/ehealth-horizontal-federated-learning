@@ -1,5 +1,3 @@
----
-
 ### **Observation from Results**
 
 | Run | Local Epochs | Accuracy |
