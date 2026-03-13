@@ -1,4 +1,4 @@
-# How Federated Learning Works in Details
+# How Federated Learning Works in Details in Our Project - We compiled this information also for our own learning
 
 ## Overview
 
