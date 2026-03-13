@@ -1,6 +1,6 @@
 ---
 
-## Experiment Summary
+## Experiment Summary: This part summarizes the setup used for all the Labs
 
 This table provides a **high-level overview of all 36 experiments**, grouped by mode and dataset. It shows the run ranges, models, client ratios, local epochs, and training paradigms.
 
