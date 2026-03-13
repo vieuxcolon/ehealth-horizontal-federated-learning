@@ -26,7 +26,7 @@ This experiment modifies one of our code base to implement **Vertical (VFL) and 
   * A value near **0** indicates that predictions are **fair across age groups**.
   * Positive/negative values indicate bias toward one group.
 
-> Remark: Differential privacy affects training noise and accuracy, while fairness metrics evaluate whether this noise disproportionately affects certain demographic groups.
+**Remark:** Differential privacy affects training noise and accuracy, while fairness metrics evaluate whether this noise disproportionately affects certain demographic groups.
 
 ---
 
