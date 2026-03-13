@@ -1,3 +1,10 @@
+# Federated Learning Pipeline — Logical Flow (Tree Structure)
+
+```markdown
+# Federated Learning Pipeline — Logical Flow (Tree Structure)
+
+```
+
 Federated Learning Experiment Pipeline
 │
 ├── 1. Initialization Phase
@@ -141,16 +148,20 @@ Federated Learning Experiment Pipeline
 │       └── Runtime
 │
 └── 9. Final Experiment Summary
-    │
-    ├── Create dataframe df_runs
-    │
-    ├── Compute averages
-    │   ├── avg_accuracy
-    │   ├── avg_macro_f1
-    │   ├── avg_micro_f1
-    │   ├── avg_spd
-    │   ├── avg_eod
-    │   ├── total_comm_cost
-    │   └── runtime statistics
-    │
-    └── Print final experiment report
+│
+├── Create dataframe df_runs
+│
+├── Compute averages
+│   ├── avg_accuracy
+│   ├── avg_macro_f1
+│   ├── avg_micro_f1
+│   ├── avg_spd
+│   ├── avg_eod
+│   ├── total_comm_cost
+│   └── runtime statistics
+│
+└── Print final experiment report
+
+```
+
+
